@@ -1,0 +1,13 @@
+C:\Users\Remus Iftimie\Personal_GitHub\Fetch_API_Data\bin\Debug\netcoreapp3.1\Fetch_API_Data.exe
+C:\Users\Remus Iftimie\Personal_GitHub\Fetch_API_Data\bin\Debug\netcoreapp3.1\Fetch_API_Data.deps.json
+C:\Users\Remus Iftimie\Personal_GitHub\Fetch_API_Data\bin\Debug\netcoreapp3.1\Fetch_API_Data.runtimeconfig.json
+C:\Users\Remus Iftimie\Personal_GitHub\Fetch_API_Data\bin\Debug\netcoreapp3.1\Fetch_API_Data.runtimeconfig.dev.json
+C:\Users\Remus Iftimie\Personal_GitHub\Fetch_API_Data\bin\Debug\netcoreapp3.1\Fetch_API_Data.dll
+C:\Users\Remus Iftimie\Personal_GitHub\Fetch_API_Data\bin\Debug\netcoreapp3.1\Fetch_API_Data.pdb
+C:\Users\Remus Iftimie\Personal_GitHub\Fetch_API_Data\obj\Debug\netcoreapp3.1\Fetch_API_Data.csprojAssemblyReference.cache
+C:\Users\Remus Iftimie\Personal_GitHub\Fetch_API_Data\obj\Debug\netcoreapp3.1\Fetch_API_Data.AssemblyInfoInputs.cache
+C:\Users\Remus Iftimie\Personal_GitHub\Fetch_API_Data\obj\Debug\netcoreapp3.1\Fetch_API_Data.AssemblyInfo.cs
+C:\Users\Remus Iftimie\Personal_GitHub\Fetch_API_Data\obj\Debug\netcoreapp3.1\Fetch_API_Data.dll
+C:\Users\Remus Iftimie\Personal_GitHub\Fetch_API_Data\obj\Debug\netcoreapp3.1\Fetch_API_Data.pdb
+C:\Users\Remus Iftimie\Personal_GitHub\Fetch_API_Data\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Remus Iftimie\Personal_GitHub\Fetch_API_Data\obj\Debug\netcoreapp3.1\Fetch_API_Data.csproj.CopyComplete
